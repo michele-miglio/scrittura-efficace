@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scrittura efficace"
+  short_description: "Scrittura, revisione e copy con una voce riconoscibile"
+  default_prompt: "Usa $scrittura-efficace per trasformare questi appunti in un testo adatto al lettore, mantenendo voce, fatti e condizioni."
